@@ -1,0 +1,4 @@
+name	path
+enterobacter_ludwigi	/home/ssm-user/metagenomics/fasta_ref/enterobacter_ludwigii.fasta
+enterobacter_kobei	/home/ssm-user/metagenomics/fasta_ref/enterobacter_kobei.fasta
+citrobacter_koseri	/home/ssm-user/metagenomics/fasta_ref/citrobacter_koseri.fasta
